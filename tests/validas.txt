@@ -1,0 +1,11 @@
+# vazio e menor par
+{}
+# aninhamento e tipos misturados
+{ a (b) [c] }
+{[(()())]}
+()[]{}
+{ [ ( x ) ] }
+# texto parecido com codigo
+funcao(a, b) { se (a > b) { lista[0] = (a + b); } }
+# profundidade 20
+(((((((((((((((((((())))))))))))))))))))

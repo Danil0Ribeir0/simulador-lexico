@@ -1,0 +1,11 @@
+# fechamento com a pilha vazia
+)
+{}}
+)(
+# fechamento do tipo errado
+{(})
+[}
+{ ( [ x ] } )
+# sobra de aberturas no fim
+{ ( [ ]
+((((
